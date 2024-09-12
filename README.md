@@ -1,6 +1,8 @@
-# Flap Your Way to Victory: An Open-Source Flappy Bird Adventure
+<img src="./public/flappy-bird.jpg" alt="Flappy Bird">
 
-Dive into the addictive world of our open-source Flappy Bird clone! This captivating browser-based game brings the beloved mobile sensation to your desktop, crafted with the power of HTML, CSS, and JavaScript.
+# An Open-Source Flappy Bird Clone made using HTML, CSS and Typescript
+
+Dive into the addictive world of our open-source Flappy Bird clone! This captivating browser-based game brings the beloved mobile sensation to your desktop, crafted with the power of HTML, CSS, and Typescript.
 
 Challenge yourself to navigate through a series of pipes, testing your reflexes and patience. With simple yet engaging gameplay, this project offers both entertainment for players and a valuable learning resource for aspiring game developers.
 
